@@ -8,14 +8,20 @@
 
 You will find lot of benchmarks for PHP frameworks and template engines.
 
-You can compare results between Apache Bench and Siege, and PHP 5.6 to 7.2.
+You can compare results between Apache Bench and Siege, and PHP 5.6 to 7.3.
 
 ## What is this repository ?
 
-It's benchmark common code for Code Igniter benchmarks.
+It's benchmark common code for CodeIgniter benchmarks.
 
-Switch branch to select your Code Igniter major version and benchmark you want to see.
+Switch branch to select your CodeIgniter major version and benchmark you want to see.
+
+See all CodeIgniter benchmarked versions on [phpbenchmarks/code-igniter](https://github.com/phpbenchmarks/code-igniter).
+
+You can find how we benchmark on [phpbenchmarks.com](http://www.phpbenchmarks.com/en/benchmark-protocol.html).
 
 ## Benchmarks
 
-Benchmark are running, results will be available as soon as possible.
+You can find all CodeIgniter benchmarks results on [phpbenchmarks.com](http://www.phpbenchmarks.com/en/benchmark/code-igniter.html).
+
+Scores are too low ? Do not hesitate to create a pull request, and ask a new benchmark !
