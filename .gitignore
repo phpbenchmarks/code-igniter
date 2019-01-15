@@ -1,10 +1,10 @@
 .DS_Store
 
 application/cache/*
-!application/cache/index.html
+!application/cache/.gitkeep
 
 application/logs/*
-!application/logs/index.html
+!application/logs/.gitkeep
 
 composer.lock
 

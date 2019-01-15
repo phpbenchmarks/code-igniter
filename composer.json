@@ -5,6 +5,6 @@
 	"require": {
 		"php": ">=5.3.7",
         "codeigniter/framework": "3.1.*",
-        "phpbenchmarks/code-igniter-common": "dev-code-igniter_3_hello-world"
+        "phpbenchmarks/code-igniter-common": "3.1.0"
 	}
 }
