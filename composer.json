@@ -1,10 +1,12 @@
 {
     "name": "phpbenchmarks/code-igniter",
+    "description": "CodeIgniter benchmark code for PHPBenchmarks.",
     "type": "project",
     "license": "proprietary",
 	"require": {
 		"php": ">=5.3.7",
-        "codeigniter/framework": "3.1.*",
-        "phpbenchmarks/code-igniter-common": "3.1.0"
+        "codeigniter/framework": "3.1.9",
+        "phpbenchmarks/code-igniter-common": "3.1.0",
+        "phpbenchmarks/benchmark-kit": "~1.0.6"
 	}
 }
